@@ -2,7 +2,7 @@
 
 ## Background: 
 
-For this assignment, we were tasked with utilizing the USGS earthquake data to create a map of all the earthquakes in the last 7 days. While doing so, we were to color code the  depth of each earthquake, and display our marker sizes based on the magnitude. There was an optional part 2 of this assignment that due to time constraints, I opted out of doing. But in my code that is located under Leaflet Part 1, you will find all the necessary information has been loaded in and properly made. 
+For this assignment, we were tasked with utilizing the USGS earthquake data to create a map of all the earthquakes in the last 7 days. While doing so, we were to color code the  depth of each earthquake, and display our marker sizes based on the magnitude. There was an optional part 2 of this assignment, but I did not include it in this as I didn't have time to properly finish. But in my code that is located under Leaflet Part 1, you will find all the necessary information has been loaded in and properly made. 
 
 ## Instructions: 
 Part 1: Create the Earthquake Visualization
